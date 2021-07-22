@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu  xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="@string/bn_title_profile" />
+
+    <item
+        android:id="@+id/searchFragment"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="@string/bn_title_search" />
+
+    <item
+        android:id="@+id/storeFragment"
+        android:icon="@drawable/ic_store_black_24dp"
+        android:title="@string/bn_title_store" />
+
+
+</menu>
