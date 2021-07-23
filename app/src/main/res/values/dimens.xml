@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--padding-->
+    <dimen name="large_padding">24dp</dimen>
+    <dimen name="medium_padding">16dp</dimen>
+    <dimen name="small_padding">12dp</dimen>
+    <dimen name="micro_padding">8dp</dimen>
+
+    <!--font size-->
+    <dimen name="large_font">24sp</dimen>
+    <dimen name="medium_font">18sp</dimen>
+    <dimen name="small_font">12sp</dimen>
+
+
+</resources>

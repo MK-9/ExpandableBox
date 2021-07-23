@@ -1,0 +1,111 @@
+{
+  "storeItems": [
+    {
+      "header": "header_1",
+      "subHeader": "subHeader_1",
+      "appItems": [
+        {
+          "title": "title_1",
+          "subtitle": "subtitle_1",
+          "imgUrl": "imgUrl_1"
+        },
+        {
+          "title": "title_1",
+          "subtitle": "subtitle_1",
+          "imgUrl": "imgUrl_1"
+        },
+        {
+          "title": "title_1",
+          "subtitle": "subtitle_1",
+          "imgUrl": "imgUrl_1"
+        },
+        {
+          "title": "title_1",
+          "subtitle": "subtitle_1",
+          "imgUrl": "imgUrl_1"
+        },
+        {
+          "title": "title_1",
+          "subtitle": "subtitle_1",
+          "imgUrl": "imgUrl_1"
+        },
+        {
+          "title": "title_1",
+          "subtitle": "subtitle_1",
+          "imgUrl": "imgUrl_1"
+        },
+        {
+          "title": "title_1",
+          "subtitle": "subtitle_1",
+          "imgUrl": "imgUrl_1"
+        }
+      ]
+    },
+    {
+      "header": "header_2",
+      "subHeader": "subHeader_2",
+      "appItems": [
+        {
+          "title": "title_1",
+          "subtitle": "subtitle_1",
+          "imgUrl": "imgUrl_1"
+        }
+      ]
+    },
+    {
+      "header": "header_3",
+      "subHeader": "subHeader_3",
+      "appItems": [
+        {
+          "title": "title_1",
+          "subtitle": "subtitle_1",
+          "imgUrl": "imgUrl_1"
+        }
+      ]
+    },
+    {
+      "header": "header_4",
+      "subHeader": "subHeader_4",
+      "appItems": [
+        {
+          "title": "title_1",
+          "subtitle": "subtitle_1",
+          "imgUrl": "imgUrl_1"
+        }
+      ]
+    },
+    {
+      "header": "header_5",
+      "subHeader": "subHeader_5",
+      "appItems": [
+        {
+          "title": "title_1",
+          "subtitle": "subtitle_1",
+          "imgUrl": "imgUrl_1"
+        }
+      ]
+    },
+    {
+      "header": "header_6",
+      "subHeader": "subHeader_6",
+      "appItems": [
+        {
+          "title": "title_1",
+          "subtitle": "subtitle_1",
+          "imgUrl": "imgUrl_1"
+        }
+      ]
+    },
+    {
+      "header": "header_3",
+      "subHeader": "subHeader_3",
+      "appItems": [
+        {
+          "title": "title_1",
+          "subtitle": "subtitle_1",
+          "imgUrl": "imgUrl_1"
+        }
+      ]
+    }
+  ]
+}

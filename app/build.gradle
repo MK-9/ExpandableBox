@@ -41,6 +41,11 @@ android {
 }
 
 dependencies {
+    //dependent module
+    implementation project(':Utility')
+    implementation project(':Model')
+    implementation project(':Remote')
+    implementation project(':Repository')
 
     implementation 'androidx.multidex:multidex:2.0.1'
 
